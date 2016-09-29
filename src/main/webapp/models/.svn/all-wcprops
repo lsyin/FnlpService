@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/fnlp-rs/!svn/ver/20/WebContent/models
+END
+dict_ambiguity.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/fnlp-rs/!svn/ver/20/WebContent/models/dict_ambiguity.txt
+END
+wordgraph.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/fnlp-rs/!svn/ver/11/WebContent/models/wordgraph.txt
+END
+dict_dep.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/fnlp-rs/!svn/ver/11/WebContent/models/dict_dep.txt
+END
+id_rsa.pub
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/fnlp-rs/!svn/ver/11/WebContent/models/id_rsa.pub
+END
+dict_pos.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/fnlp-rs/!svn/ver/11/WebContent/models/dict_pos.txt
+END
+dep.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/fnlp-rs/!svn/ver/11/WebContent/models/dep.m
+END
+TimeExp.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/fnlp-rs/!svn/ver/11/WebContent/models/TimeExp.m
+END
+ar.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/fnlp-rs/!svn/ver/11/WebContent/models/ar.m
+END
+ExtractPattern.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/fnlp-rs/!svn/ver/20/WebContent/models/ExtractPattern.txt
+END
+pos.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/fnlp-rs/!svn/ver/11/WebContent/models/pos.m
+END
+seg.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/fnlp-rs/!svn/ver/11/WebContent/models/seg.m
+END
+dict_pos_check.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/fnlp-rs/!svn/ver/11/WebContent/models/dict_pos_check.txt
+END
+Stock-Tree.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/fnlp-rs/!svn/ver/20/WebContent/models/Stock-Tree.txt
+END
+dict.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/fnlp-rs/!svn/ver/20/WebContent/models/dict.txt
+END
+id_rsa
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/fnlp-rs/!svn/ver/11/WebContent/models/id_rsa
+END

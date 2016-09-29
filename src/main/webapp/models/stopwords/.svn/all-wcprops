@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/fnlp-rs/!svn/ver/20/WebContent/models/stopwords
+END
+ErrorWords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/fnlp-rs/!svn/ver/20/WebContent/models/stopwords/ErrorWords.txt
+END
+StopWords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/fnlp-rs/!svn/ver/20/WebContent/models/stopwords/StopWords.txt
+END
+NoSenseWords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/fnlp-rs/!svn/ver/20/WebContent/models/stopwords/NoSenseWords.txt
+END
